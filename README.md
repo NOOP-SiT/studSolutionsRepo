@@ -23,7 +23,16 @@ Vaš tijek rada (eng. workflow) treba slijediti sljedeći obrazac:
 2. Drugi commit je radna verzija rješenja 
 3. Treći commit je finalna verzija rješenja &Rarr; ona koju vi smatrate finalnom verzijom
 
-`Drugim riječima svako rješenje nekog od zadataka treba imati minimalno tri commit-a, a prema potrebi može ih biti i više.`
+```
+Drugim riječima svako rješenje nekog od zadataka treba imati minimalno tri commit-a, 
+a prema potrebi može ih biti i više.
+```
+
+![github](https://badgen.net/badge/icon/github?icon=github&label)
+
+> Za svaki zadatak kojeg rješavate trebate napraviti novu granu (eng. branch) istog naziva kao i zadatak kojeg rješavate i potom uvijek radite push prema toj grani.
+
+Ovo nam znači da rješenje svakog zadatka ima vlastitu granu ili da niti jedno rješenje ne stavljate u master granu. Na ovu pojedinost obratite posebnu pažnju.  
 
 ![konzultacije](https://img.shields.io/github/followers/vNPro3s?label=Konzultacije&style=social)
 
