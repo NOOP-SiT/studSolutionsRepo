@@ -1,4 +1,4 @@
-![noop](https://img.shields.io/badge/noop-active-brightgreen) ![commit](https://badgen.net/github/last-commit/micromatch/micromatch)
+![noop](https://img.shields.io/badge/noop-active-brightgreen) ![licence](https://img.shields.io/badge/licence-%40SiT-blue)
 
 # Osnovne smjernice
 ---
