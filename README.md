@@ -32,7 +32,7 @@ a prema potrebi može ih biti i više.
 
 > Za svaki zadatak kojeg rješavate trebate napraviti novu granu (eng. branch) istog naziva kao i zadatak kojeg rješavate i potom uvijek radite push prema toj grani.
 
-Ovo nam znači da rješenje svakog zadatka ima vlastitu granu ili da niti jedno rješenje ne stavljate u master granu. Na ovu pojedinost obratite posebnu pažnju.  
+Ovo nam znači da rješenje svakog zadatka ima vlastitu granu ili da niti jedno rješenje ne stavljate u master granu. Na ovu pojedinost obratite posebnu pažnju. Prema tome, u master grani ćete uvijek imati samo nove upute i nove tekstove zadataka.
 
 ![konzultacije](https://img.shields.io/github/followers/vNPro3s?label=Konzultacije&style=social)
 
