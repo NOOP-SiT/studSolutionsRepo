@@ -37,8 +37,12 @@ $ git push -u origin prviZadatak
 
 &nbsp;
 
-> <i class="fa fa-balance-scale" style="font-size:24px"> Vremenski okvir</i>
+![time](https://img.shields.io/badge/time-for%20finish-red?style=for-the-badge)
+
+>**Vremenski okvir**
 >
 > Ovaj zadatak je potrebno izvršiti do srijede, 11/12/2019. do 23.00h
+
+&nbsp;
 
 Sljedeće zadatke možete očekivati od četvrtka, 12/12/2019. pa sve do kraja semestra :)
