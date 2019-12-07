@@ -2,6 +2,12 @@
 
 # Osnovne smjernice
 ---
+![info](https://img.shields.io/badge/student-info-orange) **Vaše ime i prezime:** &rarr;
+
+> Ne zaboravite upisati vaše ime i prezime, što će biti jedini commit u master granu i jedina promjena README.md datoteke koju ćete napraviti. 
+
+&nbsp;
+
 Ovaj privatni repozitorij predstavlja repozitorij putem kojeg ćete predavati rješenja vaših uradaka za postavljene zadatke. U mapi `TEKSTOVI` nalazit će se tekstovi zadataka čije su težine određene na sljedeći način:
 
 | Oznaka zadataka |Zahtjev    | Napomena  |
