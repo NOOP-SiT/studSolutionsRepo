@@ -2,7 +2,7 @@
 ---
 
 Vaš prvi zadatak je vrlo jednostavan, a sastoji se u tome da putem Eclipse-a ili Git-a direktno u ovaj repozitorij postavite rješenje 
-bilo kojeg zadatka iz vježbi (ne primjere s predavanja) kolegija NOOP. Java projekt treba biti unutar zadane mape `SOLUTIONS` i u vlastitoj grani naziva `prviZadatak` što znači da se ovaj zadatak sastoji od sljedećih koraka:
+bilo kojeg zadatka iz vježbi (*ne primjere s predavanja*) predmeta NOOP. U konačnici taj Java projekt treba biti unutar zadane mape `SOLUTIONS` u novoj grani naziva `prviZadatak` što znači da se ovaj zadatak sastoji od sljedećih koraka:
 
 ![materialsGit](https://img.shields.io/badge/see%40merlin-git--materials-brightgreen) &rarr; `Pogledajte dodatne materijale za rad s gitom na sustavu Merlin`
 
@@ -27,7 +27,7 @@ $ git push -u origin prviZadatak
   
 2. Dalje se radi u Eclipse-u kako smo pokazali na vježbama. 
 
-> Ukoliko niste sigurni što radite napravite probni repozitorij na vašem GitHub računu i u njemu eksperimentirajte s ovim zadatkom. Kada ste sigurni u ono što radite, traženo rješenje napravite na ovom repozioriju. 
+> Ukoliko niste sigurni što radite napravite probni repozitorij na vašem GitHub računu i u njemu eksperimentirajte s ovim zadatkom. Kada ste sigurni u ono što radite, traženo rješenje napravite na ovom repozitoriju. 
   
 &nbsp;
     * Povežite JAVA projekt s rješenjem bilo kojeg zadatka iz vježbi s mapom **SOLUTIONS**
