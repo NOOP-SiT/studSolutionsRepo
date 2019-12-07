@@ -30,9 +30,9 @@ $ git push -u origin prviZadatak
 > Ukoliko niste sigurni što radite napravite probni repozitorij na vašem GitHub računu i u njemu eksperimentirajte s ovim zadatkom. Kada ste sigurni u ono što radite, traženo rješenje napravite na ovom repozioriju. 
   
 &nbsp;
-    2. Povezivanje JAVA projekta s rješenjem bilo kojeg zadatka iz vježbi s mapom **PROJECTS_codes**
-    3. Napraviti **commit** s pripadajućom porukom `"prvi zadatak java -  inicijalni commit"`
-    4. Provjeriti na GitHubu da je sve sinkronizirano kako treba
+    * Povežite JAVA projekt s rješenjem bilo kojeg zadatka iz vježbi s mapom **SOLUTIONS**
+    * Napraviti **commit** s pripadajućom porukom `"prvi zadatak java -  inicijalni commit"` &Rarr; u granu `prviZadatak`
+    * Provjeriti na GitHubu da je sve sinkronizirano kako treba
 
 &nbsp;
 
