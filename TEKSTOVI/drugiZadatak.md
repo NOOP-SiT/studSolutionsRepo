@@ -81,7 +81,11 @@ Sučelje `GUIElemenDecorator` ima samoo jednu metodu `public void setGUIElement2
 - `TransparencyGUIElementDecoratot` &rarr; koji mijenja transparentnost slučajnim odabirom iz pobrojanog (Enumerated - oznaka Enu) tipa transparentnosti &rarr; npr 100PercTransparency, 80PercTransparency, 70PercTransparency,50PercTransparency i NOTransparency
 - `RoundGUIElementDecorator` &rarr; koji samo zaobli rubove svakom elementu &rarr; tekstualna poruka - default &rarr; "NOT Rounded!"
 
-U glavnom dijelu programa kreirajte po jedan element sučelja i potom mu promijenite dekoraciju, ali na način da za dva elementa koristite dekoraciju primjenom odgovarajućih `set` metoda, a jednom kaskadnim principom omatanja (`wrapping`) kako smo radili na predavanjima i vježbama.  
+U glavnom dijelu programa kreirajte po jedan element sučelja i potom mu promijenite dekoraciju, ali na način da za dva elementa koristite dekoraciju primjenom odgovarajućih `set` metoda, a jednom kaskadnim principom omatanja (`wrapping`) kako smo radili na predavanjima i vježbama. 
+
+&nbsp;
+
+![time](https://img.shields.io/badge/time-for%20finish-red?style=for-the-badge)
 
 >**Vremenski okvir**
 >
