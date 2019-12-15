@@ -7,7 +7,7 @@
 
 &nbsp;
 
-![materijaliPVJ](https://img.shields.io/badge/see%40merlin-materijali--predavanja--vje%C5%BEbe-blue) &rarr; `proučite materijale s predvanja i vježbi`
+![materijaliPVJ](https://img.shields.io/badge/see%40merlin-materijali--predavanja--vje%C5%BEbe-blue) &rarr; `proučite materijale s predavanja i vježbi`
 	
 ## Zadatak 1.1.
 ---
@@ -97,7 +97,7 @@ U glavnom dijelu programa kreirajte po jedan element sučelja i potom mu promije
 
 <p align="center">
 	
-<img width=77% src= "https://aq7gwq.db.files.1drv.com/y4m3z7up48ftTEmZrI9d10aCbjGyebwDt3Qe76IE0JtVW8J4TnoqXSNhfMrEY1Vczuoo_t9C5FurpgllCeWBheoc9Pa_J8qg09FtIoZhF8kaLz8NXPFeR3aJyN8ki3GbtX_5VCCkr-kN57gj2q95LIKQ2DScgP6r01WeOpWdMvJIUo5HOZk8YeWG_eeHwUA7dnE8jtx9rt_D_FHfkwLUxMZdA?width=762&height=699&cropmode=none">
+<img width=77% src= "https://aq7gwq.db.files.1drv.com/y4mVWkW5xXjpicIEmb6pADXpWZz_uCRUH2yDhqmJC_EgcIp-By2-_HQsPvSynbTxd7OVpP7YKDwI_ixFW38RGn4UftaT6P7e5Cs1hftaWy737MDia1G6tqKUCqpe_wBWQZwWBhbPbjrd5ovIWFoZ2N38m_CsdlciIyrr0JJbJ9MWXJbzBD7pWacqdp9S4MLCYkh4v5oBzZ0y5sxTnImFDeIvg?width=770&height=767&cropmode=none">
 	
  <p align="center"> <b>Slika 2</b> Primjer konzolnog izlaza uz zadatak s dekoracijom GUI elemenata </p>
   
