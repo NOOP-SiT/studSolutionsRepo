@@ -89,14 +89,8 @@ U glavnom dijelu programa kreirajte po jedan element sučelja i potom mu promije
 
 >**Vremenski okvir**
 >
-> Vremenski okvir za ovu grupu zadataka je definiran sljedećom tablicom 
+> Vremenski okvir za ovu grupu zadataka je do 23.12.2019. do 23.00h
 
-|Do  |bodovi  |Napomena  |
-|:-:|:-:|:-:|
-|23.12.2019.  |do 100% od MAX. |~ |
-| 30.12.2019. |do 80% od MAX.  |~  |
-| 07.01.2020. | do 65% od MAX. | ~ |
-| do termina drugog ispitnog roka u veljači | 50% od MAX. | ~ |
 
 
 &nbsp;
