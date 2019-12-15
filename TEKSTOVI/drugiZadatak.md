@@ -1,6 +1,8 @@
 # Druga grupa zadataka ![simple](https://img.shields.io/badge/complexity-**-green)
 ---
 
+<div style = "text-align:justify">
+
 U ovom zadatku trebate primjeniti predložak strategija kako bi realizirali tri strategije za pogon svemirskih brodova. Strategije su redom:
 
 - IonPropulsion
@@ -41,4 +43,6 @@ U glavnom dijelu programa kreirajte niz (npr. ArrayList) koji se puni s kreirani
   **Slika 1** Primjer konzolonog izlaza uz zadatak s klasama svemirskih brodova
   </center>
   
-  
+ </div>
+ ---
+ [conslSpaceShip]:https://ag7gwq.db.files.1drv.com/y4mEl7H1-UkKgtIrGYkHE98nKezmSKTJDSGMdJHjThq8Ros0XlAytg-6RFIa5WHnZVeqwsviVTbjRJXMnJC2tVLQ9gAnDiWmtI9EHd3rJ9VMivXl6rw0J5akE5M6VWjm6XAwQR2kFJMrYliVfy8M5iA7vxN0vzuvMPvzAGrBnLQ8EoftcDVxqLCH4ZEKeVdoy9djNk6gdEAX2eueo-enBWxXg?width=719&height=189&cropmode=none
