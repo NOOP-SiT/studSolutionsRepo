@@ -39,10 +39,10 @@ public abstract class AbsSpaceShipClass {
 U glavnom dijelu programa kreirajte niz (npr. ArrayList) koji se puni s kreiranim konkretnim svemirskim brodovima. Za test je dovoljno napraviti jedan brod klase `EnterpriseClassSpaceShip` i jedan klase `DiscoveryClassSpaceShip`. U prvom slučaju `EnterpriseClassSpaceShip` primjerak ima `IonPropulsion`, a `DiscoveryClassSpaceShip` primjerak `WarpPropulsion`. Nakon što načinite ispis &rarr; korištenjem nadjačane `toString` metode, promijenite pogon `DiscoveryClassSpaceShip` primjerku u `TransWarpPropulsion`. Konačni ispis bi trebao biti sličan konzolnom prikazu na slici 1:
 
 <center>
-  ![conslSpaceShips]
+  ![conslSpaceShips](https://ag7gwq.db.files.1drv.com/y4mEl7H1-UkKgtIrGYkHE98nKezmSKTJDSGMdJHjThq8Ros0XlAytg-6RFIa5WHnZVeqwsviVTbjRJXMnJC2tVLQ9gAnDiWmtI9EHd3rJ9VMivXl6rw0J5akE5M6VWjm6XAwQR2kFJMrYliVfy8M5iA7vxN0vzuvMPvzAGrBnLQ8EoftcDVxqLCH4ZEKeVdoy9djNk6gdEAX2eueo-enBWxXg?width=719&height=189&cropmode=none)
   **Slika 1** Primjer konzolonog izlaza uz zadatak s klasama svemirskih brodova
   </center>
   
  </div>
  ---
- [conslSpaceShip]:https://ag7gwq.db.files.1drv.com/y4mEl7H1-UkKgtIrGYkHE98nKezmSKTJDSGMdJHjThq8Ros0XlAytg-6RFIa5WHnZVeqwsviVTbjRJXMnJC2tVLQ9gAnDiWmtI9EHd3rJ9VMivXl6rw0J5akE5M6VWjm6XAwQR2kFJMrYliVfy8M5iA7vxN0vzuvMPvzAGrBnLQ8EoftcDVxqLCH4ZEKeVdoy9djNk6gdEAX2eueo-enBWxXg?width=719&height=189&cropmode=none
+ 
