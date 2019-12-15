@@ -57,31 +57,52 @@ U glavnom dijelu programa kreirajte niz (npr. ArrayList) koji se puni s kreirani
   
  ## Zadatak 1.2.
  ---
- Primjenom predloška dekorator kreirajte jednostavnu aplikaciju koja će moći dinamički mijenjati svojstva sljedećih GUI elemenata:
+Primjenom predloška dekorator kreirajte jednostavnu aplikaciju koja će moći dinamički mijenjati svojstva sljedećih GUI elemenata:
  
  - ButtonGUIElm
  - FrameGUIElm
  - PanelGUIElm
  
- Sučelje `BasicGUIElm` ima sljedeće metode:
+Sučelje `BasicGUIElm` ima sljedeće metode:
  
  ```java 
-public void guiElementName();
 public void description();
-public void showGuiElement();
-public void setGuiElementSize();
 public void setDefaultParameters(boolean state);
-public void setColor(EnuColors clrs);
-public void setTransparency(EnuTransparency  transp);
  ```
- 
-Sučelje `GUIElemenDecorator` ima samoo jednu metodu `public void setGUIElement2Decorate(BasicGUIElm guielement)`. Konkretni dekoratori su redom:
+Apstraktna klasa `AbsGUIElement` definirana je na sljedeći način:
+
+```java 
+protected abstract void setGuiElementSize(int sz);
+protected abstract void createElement();
+protected abstract void showGuiElement(boolean show);
+```
+Sučelje `GUIElemenDecorator` definirano je na sljedeći način:
+
+```java
+public void setGUIElement2Decorate(BasicGUIElm guiElement);
+public void setParam();
+```
+
+
+. Konkretni dekoratori su redom:
 
 - `ColorGUIElementDecorator` &rarr; koji mijenja boju slučajnim odabirom iz pobrojanog (Enumerated - oznaka Enu) tipa boja &rarr; samostalno odredite 4 tipa boja uz osnovnu - polaznu metodu (default)
-- `TransparencyGUIElementDecoratot` &rarr; koji mijenja transparentnost slučajnim odabirom iz pobrojanog (Enumerated - oznaka Enu) tipa transparentnosti &rarr; npr 100PercTransparency, 80PercTransparency, 70PercTransparency,50PercTransparency i NOTransparency
+	- Ukoliko se dekoracija određuje pri kreiranju ovog objekta tada se boja definira u samom konstruktoru 
+- `TransparencyGUIElementDecoratot` &rarr; koji mijenja transparentnost slučajnim odabirom iz pobrojanog (Enumerated - oznaka Enu) tipa transparentnosti &rarr; npr. PERC100TRANSP, PERC80TRANSP, PERC50TRANSP, NOTRANSP
+	- Ukoliko se dekoracija određuje pri kreiranju ovog objekta, tada se transparentnost zadaje u samom konstruktoru
 - `RoundGUIElementDecorator` &rarr; koji samo zaobli rubove svakom elementu &rarr; tekstualna poruka - default &rarr; "NOT Rounded!"
+	- Ova klasa zahtjeva primjenu `setParam` metode koja će postaviti zaobljene rubove &rarr; definirajte pripadnom porukom
 
-U glavnom dijelu programa kreirajte po jedan element sučelja i potom mu promijenite dekoraciju, ali na način da za dva elementa koristite dekoraciju primjenom odgovarajućih `set` metoda, a jednom kaskadnim principom omatanja (`wrapping`) kako smo radili na predavanjima i vježbama. 
+U glavnom dijelu programa kreirajte po jedan element sučelja i potom mu promijenite dekoraciju, ali na način da za dva elementa koristite dekoraciju primjenom odgovarajućih `set` metoda, a jednom kaskadnim principom omatanja (`wrapping`) kako smo radili na predavanjima i vježbama. Primjer mogućeg konzolnog izlaza za jedan GUI element prikazan je na slici 2:
+
+<p align="center">
+	
+<img width=77% src= "https://aq7gwq.db.files.1drv.com/y4m3z7up48ftTEmZrI9d10aCbjGyebwDt3Qe76IE0JtVW8J4TnoqXSNhfMrEY1Vczuoo_t9C5FurpgllCeWBheoc9Pa_J8qg09FtIoZhF8kaLz8NXPFeR3aJyN8ki3GbtX_5VCCkr-kN57gj2q95LIKQ2DScgP6r01WeOpWdMvJIUo5HOZk8YeWG_eeHwUA7dnE8jtx9rt_D_FHfkwLUxMZdA?width=762&height=699&cropmode=none">
+	
+ <p align="center"> <b>Slika 2</b> Primjer konzolnog izlaza uz zadatak s dekoracijom GUI elemenata </p>
+  
+  </p>
+
 
 &nbsp;
 
