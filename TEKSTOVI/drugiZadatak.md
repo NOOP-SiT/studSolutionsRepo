@@ -110,7 +110,7 @@ U glavnom dijelu programa kreirajte po jedan element sučelja i potom mu promije
 
 >**Vremenski okvir**
 >
-> Vremenski okvir za ovu grupu zadataka je do 23.12.2019. do 23.00h
+> Vremenski okvir za ovu grupu zadataka je do 30.12.2019. do 23.00h
 
 
 
