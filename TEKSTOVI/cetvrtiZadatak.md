@@ -2,17 +2,19 @@
 ---
 &nbsp;
 
+<div style = "text-align:justify">
+
 > Pred vama je posljednja grupa zadataka koja se sastoji od tri zadatka. Prva dva su vezana uz višenitno programiranje, dok je treći jednostavna MVC aplikacija koja komunicira s bazom podataka.
 
 &nbsp;
 
-Kao i do sada, preporuka je da prvo pogledate i samostalno riješite materijale s vježbi i predavanja vezana uz navedene zadatka.
+Kao i do sada, preporuka je da prvo pogledate i samostalno riješite materijale s vježbi i predavanja vezana uz navedene zadatke.
 
 ![materialsGit](https://img.shields.io/badge/see%40merlin-materials-brightgreen) &rarr; `Pogledajte nastavne materijale na sustavu Merlin`
 
 **Zadatak 4.1** 
 
-Vaš zadatak je da napravite jednostavnu klasu `SimpleObject` koja će imati statičko polje koje želite inkrementirati metodom te klase `public void incrementField(int nums)`, gdje `nums` predstavlja željeni broj sukcesivne inkrementacije. U glavnom dijelu programa trebate imati dvije niti `IncrementThread` koje primaju isti objekt klase `SimpleObject` i vrše inkrement njegovog osnovnog polja željeni broj puta. Postavite spavanje svake niti u operaciji inkrementa na 15ms. Konzolni izlaz bi trebao biti sličan onome ne slici 1:
+Vaš zadatak je da napravite jednostavnu klasu `SimpleObject` koja će imati statičko polje koje želite inkrementirati metodom te klase `public void incrementField(int nums)`, gdje `nums` predstavlja željeni broj koraka sukcesivne inkrementacije. U glavnom dijelu programa trebate imati dvije niti `IncrementThread` koje primaju isti objekt klase `SimpleObject` i vrše inkrement njegovog osnovnog polja željeni broj puta. Postavite spavanje svake niti u operaciji inkrementa na 15ms. Konzolni izlaz bi trebao biti sličan onome ne slici 1:
 
  <p align = center>
  
@@ -88,7 +90,7 @@ Zahtjevi za podatke su jednostavni:
 1. `Services` &rarr; Enum tip s vrijednostima {`OnlineService1`, `OnlineService2`, `OnlineService3`,`OnlineService4`}
 2. `Registration for` &rarr; Enum tip s vrijednostima {3 months, 1/2 year, 1 year}
 
-Dugme `Submit` šalje podatke tek nakon što su popunjeni svi elementi panela s podacima. U suprotnom dijaloškim okvirom korisniku daje do znanja da nije ispunio sva polja i navodi koja nisu ispunjena / aktivirana. Kada je forma uredno ispunjena podaci se prikazuju u tablici. Izbornici na traci s padajućim izbornicima su prikazani na slici 7:
+Dugme `Submit` šalje podatke tek nakon što su popunjeni svi elementi panela s podacima. U suprotnom, dijaloškim okvirom korisniku daje do znanja da nije ispunio sva polja i navodi koja nisu ispunjena / aktivirana. Kada je forma uredno ispunjena podaci se prikazuju u tablici. Izbornici na traci s padajućim izbornicima su prikazani na slici 7:
 
 
 <p align = center>
@@ -128,6 +130,12 @@ Kada se panel učita odmah se prikazuju podaci prvog korisnika.
 
 > Ne zaboravite uključiti mnemonik za meni `Server` i akceleratore za sve naredbe u tom meniju. Proizvoljno odredite kratice.
 
+&nbsp;
+
+![time](https://img.shields.io/badge/time-for%20finish-red?style=for-the-badge)
+
 >**Vremenski okvir**
 >
 > Vremenski okvir za ovu grupu zadataka je do 20.02.2020. do 23.00h
+
+</div>
